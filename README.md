@@ -18,6 +18,7 @@ This table lists all currently known CDTV Manufacturer IDs.
 |    16 | `0010`|       | CDTV Publishing                     |                          |
 |    22 | `0016`|       | ReadySoft                           |                          |
 |    25 | `0019`|       | Oxford Digital Enterprises/Empire   |                          |
+|    27 | `001B`|       | Discis Knowledge Research           |                          |
 |  4660 | `1234`|       | Commodore                           |                          |
 | 17228 | `434C`|   CL  | CDTV Land                           |                          |
 | 22616 | `5858`|   XX  | Reserved for testing / development  |                          |
@@ -52,12 +53,25 @@ This table lists all currently known CDTV Product IDs, sorted by Manufacturer ID
 |    25 | `0019`|       | / **Oxford Digital Enterprises/Empire** / | << Manufacturer ID       |
 |     1 | `0001`|       | Team Yankee                               | Load/Save game           |
 | ----- | ----- | ----- | ----------------------------------------- | ------------------------ |
+|    27 | `001B`|       | / **Discis Knowledge Research** /         | << Manufacturer ID       |
+| 53817 | `D239`|       | The Paperbag Princess                     | Bookmark and language    |
+| 53819 | `D23B`|       | Thomas's Snowsuit                         | Bookmark and language    |
+| 53821 | `D23D`|       | Scary Poems for Rotten Kids               | Bookmark and language    |
+| 53823 | `D23F`|       | Mud Puddle                                | Bookmark and language    |
+| 53825 | `D241`|       | Cinderella                                | Bookmark and language    |
+| 53827 | `D243`|       | The Tale of Benjamin Bunny                | Bookmark and language    |
+| 53829 | `D245`|       | A Long Hard Day at the Ranch              | Bookmark and language    |
+| 53830 | `D246`|       | Heather Hits Her First Home Run           | Bookmark and language    |
+| 53832 | `D248`|       | Moving Gives Me a Stomach Ache            | Bookmark and language    |
+| 53844 | `D254`|       | The Night Before Christmas                | Bookmark and language    |
+| 53862 | `D266`|       | The Tale of Peter Rabbit                  | Bookmark and language    |
+| ----- | ----- | ----- | ----------------------------------------- | ------------------------ |
 |  4660 | `1234`|       | / **Commodore** /                         | << Manufacturer ID       |
 | 17185 | `4321`|       | CD500 (CDTV-CR) IDE Bookmark              | To speed up drive check  |
 | ----- | ----- | ----- | ----------------------------------------- | ------------------------ |
 | 17228 | `434C`|    CL | / **CDTV Land** /                         | << Manufacturer ID       |
 |     1 | `0001`|       | Extended CDTV System Preferences          | Introduced in OS 2.35    |
-|  3001 | `0BB9`|       | Secret of Monkey Island Preferences       |                          |
+|  3001 | `0BB9`|       | Secret of Monkey Island Preferences       | Planned for rev 3        |
 | ----- | ----- | ----- | ----------------------------------------- | ------------------------ |
 
 
